@@ -7,6 +7,7 @@ package com.mycompany.app;
 public class App 
 {
     // this is just a test
+    // it's a simple test
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
